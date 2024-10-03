@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kelvinrom
-- 👀 I’m interested in quantitative model used in finance
-- 🌱 I’m currently learning option pricing model through Python and VBA
-- 💞️ I’m looking to collaborate on any project related to quantitative finance that you have 
+- 👀 I’m interested in financial mathemathics projects
+- 🌱 I’m currently learning continuous time asset allocation strategies
+- 💞️ I’m looking to collaborate on any project related to quantitative finance 
 - 📫 You can send me a message anytime I will be glad to answear you 
 
 <!---
